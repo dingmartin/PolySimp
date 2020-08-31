@@ -7,6 +7,6 @@ How to do:
 
 Load the polygon .shp file into the input field, then click Run. The result will be shown on the right and automatically saved in the same directory with your data files.
 
-Having ArcGIS SDK .NET installed is a prerequisite to run the program. Currently, the tool is compatible with 10.2.
+Having ArcGIS 10.2 installed is a prerequisite to run the program. Currently, the tool is only compatible with 10.2.
 
 Note that, if choosing Hierarchical Decomposition method, it might take a while to generate the result.
