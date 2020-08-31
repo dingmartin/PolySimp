@@ -1,8 +1,7 @@
 # PolySimp
 A Tool for Polygon Simplification based on the Underlying Scaling Hierarchy
 
-This program (.exe) is for visualizing the hierarchical structure of natural cities using the radial layout. It is out of the following paper:
-
+This program (.exe) is for polygon simplification using its inherent scaling hierarchical levels based on four algorithms which are popular in ArcGIS and QGIS: Douglas-Peuker, Bend Simplify, Visvalingam-Whyatt, and Hierarchical Decomposition.
 
 How to do:
 
