@@ -5,7 +5,7 @@ This program (.exe) is for polygon simplification using its inherent scaling hie
 
 How to do:
 
-Load the polygon .shp file into the input field, then click Run. The result will be shown on the right and automatically saved in the same directory with your data files.
+Load the polygon .shp file into the input field, choose simplification method and related measure for computing, and desired level of details, then click Run. The result will be shown on the right and automatically saved in the same directory with your data files.
 
 Having ArcGIS 10.2 installed is a prerequisite to run the program. Currently, the tool is only compatible with 10.2.
 
